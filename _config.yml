@@ -8,6 +8,7 @@ github_username: mtsar
 markdown: kramdown
 exclude:
   - Gemfile*
+  - README.md
 safe: true
 timezone: Asia/Yekaterinburg
 encoding: UTF-8
