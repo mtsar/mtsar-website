@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[RUSSE](http://russe.nlpub.ru/), the first international workshop on Russian semantic similarity evaluation conducted in 2014&ndash;2015, needed a human judgement dataset. In order to collect such judgements, a couple of [scripts](https://github.com/nlpub/russe/tree/56ee058b7a503196e316f03510169427c078e509/annotate) have been written in PHP and SQL.
+[RUSSE](http://russe.nlpub.ru/), the first international workshop on Russian semantic similarity evaluation conducted in 2014&ndash;2015, needed a human judgement dataset. In order to collect such judgements, a couple of scripts have been written in [PHP](https://github.com/nlpub/russe/tree/56ee058b7a503196e316f03510169427c078e509/annotate) and [SQL](https://github.com/nlpub/russe/blob/56ee058b7a503196e316f03510169427c078e509/russe.sql).
 
 <img class="pure-img" src="http://russe.nlpub.ru/russe2014.png" alt="RUSSE annotation in 2014.">
 
