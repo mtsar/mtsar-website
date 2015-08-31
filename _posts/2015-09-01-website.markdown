@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "We've got a website"
+author: "Dmitry Ustalov"
+date:   2015-09-01 16:30:55
+---
+
+We are glad to see you on this website.
