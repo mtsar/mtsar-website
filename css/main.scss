@@ -1,49 +1,47 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
+
 @charset "utf-8";
 
+#content {
+    margin: 0 auto;
+    max-width: 960px;
+    line-height: 1.5;
+    color: #222;
+}
 
+h2 {
+    color: #555;
+}
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+a, a:visited, a:hover, a:active {
+    color: #1080ac;
+}
 
-$spacing-unit:     30px;
+p {
+    text-align: justify;
+    hyphens: auto;
+}
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Using media queries with like this:
-// @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
+@media screen and (min-width: 64em) {
+    .highlight {
+        margin: 0 auto;
+        max-width: 80%;
     }
 }
 
+#footer {
+    font-size: 85%;
+    margin-top: 3em;
+    margin-bottom: 1em;
+}
 
+.align-center {
+    text-align: center;
+}
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+.align-right {
+    text-align: right;
+}
+
+@import "syntax-highlighting";
