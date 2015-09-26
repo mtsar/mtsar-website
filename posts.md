@@ -12,3 +12,5 @@ permalink: /posts/
 </li>
 {% endfor %}
 </ul>
+
+Also, we have an [RSS feed](/posts.xml).
