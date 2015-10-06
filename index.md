@@ -4,7 +4,7 @@ layout: default
 
 Crowdsourcing is an established approach for producing and analyzing data that can be represented as a human-assisted computation system.
 
-**Mechanical Tsar** is an engine for running a highly customizable hosted crowdsourcing platform controlling the entire annotation process including such elements as task allocation, worker ranking and result aggregation.
+**Mechanical Tsar** is an engine for running a highly customizable hosted crowdsourcing platform controlling the entire annotation process including such elements as task allocation, worker ranking and result aggregation. Read the [About](/about) page for details.
 
 ## Happy Users
 
