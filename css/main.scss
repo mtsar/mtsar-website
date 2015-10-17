@@ -23,6 +23,10 @@ p {
     hyphens: auto;
 }
 
+img {
+    width: 100%;
+}
+
 @media screen and (min-width: 64em) {
     .highlight {
         margin: 0 auto;
