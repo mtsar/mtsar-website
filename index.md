@@ -65,4 +65,4 @@ Copyright &copy; 2014&ndash;{{ site.time | date: '%Y' }} [Dmitry Ustalov].
 
 [Dmitry Ustalov]: https://ustalov.name/
 
-<a href="https://github.com/mtsar"><img style="position: absolute; top: 0; right: 0; border: 0; width: 149px; height: 149px;" src="http://aral.github.com/fork-me-on-github-retina-ribbons/right-graphite@2x.png" alt="Fork me on GitHub"></a>
+<a href="https://github.com/mtsar"><img style="position: absolute; top: 0; right: 0; border: 0; width: 149px; height: 149px;" src="//aral.github.io/fork-me-on-github-retina-ribbons/right-graphite@2x.png" alt="Fork me on GitHub"></a>
