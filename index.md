@@ -13,7 +13,7 @@ The engine is successfully used by several research projects.
 * [Yet Another RussNet](http://russianword.net/en/), a large open WordNet-like thesaurus for Russian through crowdsourcing, founded in 2013.
 * [RUSSE](http://russe.nlpub.ru/), the first international workshop on Russian semantic similarity evaluation, founded in 2014.
 
-Please [note us](https://github.com/mtsar/mtsar-website/issues) if you want to be mentioned on this page.
+Please [note us](https://github.com/mtsar/mtsar.github.io/issues) if you want to be mentioned on this page.
 
 ## Latest News
 
