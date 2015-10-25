@@ -13,16 +13,16 @@ The three-tier architecture of [Mechanical Tsar](/) requires annotation bot to i
 
 <div class="pure-g">
 <div class="pure-u-1-2 pure-u-md-1-4">
-<img src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/20150918_teleboyarin-1.png" alt="Selecting a process to annotate.">
+<img class="pure-img" src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/20150918_teleboyarin-1.png" alt="Selecting a process to annotate.">
 </div>
 <div class="pure-u-1-2 pure-u-md-1-4">
-<img src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/20150918_teleboyarin-2.png" alt="Choosing an answer for the task.">
+<img class="pure-img" src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/20150918_teleboyarin-2.png" alt="Choosing an answer for the task.">
 </div>
 <div class="pure-u-1-2 pure-u-md-1-4">
-<img src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/20150918_teleboyarin-3.png" alt="Deciding to stop for now.">
+<img class="pure-img" src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/20150918_teleboyarin-3.png" alt="Deciding to stop for now.">
 </div>
 <div class="pure-u-1-2 pure-u-md-1-4">
-<img src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/20150918_teleboyarin-4.png" alt="Being appreciated.">
+<img class="pure-img" src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/20150918_teleboyarin-4.png" alt="Being appreciated.">
 </div>
 </div>
 
