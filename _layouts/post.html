@@ -3,6 +3,6 @@ layout: default
 ---
 <h2>{{ page.title }}</h2>
 
-{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+<p class="metadata">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} &bullet; {{ page.author }}{% endif %}{% if page.meta %} &bullet; {{ page.meta }}{% endif %}</p>
 
 {{ content }}
