@@ -10,4 +10,4 @@ permalink: /about/
 
 In 2015, it has become necessary to use the similar approach for data collection, but for quite a different domain. In order to satisfy such requirements, Mechanical Tsar, an open source crowdsourcing engine for mechanized labor, has been written in Java.
 
-<img class="pure-img" src="https://github.com/dustalov/mtsar/wiki/images/Dashboard.png" alt="Early version of Mechanical Tsar dashboard.">
+<img class="pure-img" src="https://github.com/mtsar/mtsar/wiki/images/Dashboard.png" alt="Early version of Mechanical Tsar dashboard.">

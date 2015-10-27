@@ -37,9 +37,9 @@ Other news are available on the [Posts](/posts) page. Also, we have an [RSS feed
 
 ## Get Started
 
-The simplest way to start using Mechanical Tsar is pulling our Docker image. Just consult our [Running on Docker](https://github.com/dustalov/mtsar/wiki/Running-on-Docker) guide to get started. It is also possible to deploy the engine on [Heroku](https://github.com/dustalov/mtsar/wiki/Running-on-Heroku), on [systemd](https://github.com/dustalov/mtsar/wiki/Running-on-systemd) and on a regular [Linux](https://github.com/dustalov/mtsar/wiki/Running) box.
+The simplest way to start using Mechanical Tsar is pulling our Docker image. Just consult our [Running on Docker](https://github.com/mtsar/mtsar/wiki/Running-on-Docker) guide to get started. It is also possible to deploy the engine on [Heroku](https://github.com/mtsar/mtsar/wiki/Running-on-Heroku), on [systemd](https://github.com/mtsar/mtsar/wiki/Running-on-systemd) and on a regular [Linux](https://github.com/mtsar/mtsar/wiki/Running) box.
 
-More documentation is available in English on [GitHub Wiki](https://github.com/dustalov/mtsar/wiki) and on [NLPub](https://nlpub.ru/Mechanical_Tsar) in Russian. In case if you need support, ask a question on [NLPub Q&A](http://qa.nlpub.ru/c/mtsar) either in Russian or English.
+More documentation is available in English on [GitHub Wiki](https://github.com/mtsar/mtsar/wiki) and on [NLPub](https://nlpub.ru/Mechanical_Tsar) in Russian. In case if you need support, ask a question on [NLPub Q&A](http://qa.nlpub.ru/c/mtsar) either in Russian or English.
 
 ## Citation
 
