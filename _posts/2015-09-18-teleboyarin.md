@@ -29,3 +29,5 @@ The three-tier architecture of [Mechanical Tsar](/) requires annotation bot to i
 Source code of Teleboyarin is available on GitHub under the [MIT license](https://opensource.org/licenses/MIT): <https://github.com/mtsar/teleboyarin>. Indeed, similar functionality could be implemented in other messaging systems like Jabber, Slack, WhatsApp, etc.
 
 *Updated: October 13, 2015.* A short paper on Teleboyarin is accepted for publication in proceedings of the [AINL-ISMW FRUCT 2015](https://nlpub.ru/AINL-ISMW_FRUCT) conference.
+
+*Updated: November 24, 2015.* The paper [Teleboyarin—Mechanized Labor for Telegram](http://fruct.org/publications/ainl-abstract/files/Ust.pdf) has been published.
