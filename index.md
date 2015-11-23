@@ -6,7 +6,7 @@ layout: default
 <div class="pure-u-1 pure-u-md-2-3">
   <p>Crowdsourcing is an established approach for producing and analyzing data that can be represented as a human-assisted computation system.</p>
 
-  <p><strong>Mechanical Tsar</strong> is an engine for running a highly customizable hosted crowdsourcing platform controlling the entire annotation process including such elements as task allocation, worker ranking and result aggregation. Read the <a href="/about">About</a> page for details.</p>
+  <p><strong>Mechanical Tsar</strong> is an engine for running a highly customizable hosted crowdsourcing platform controlling the entire annotation process including such elements as task allocation, worker ranking and result aggregation. Read the <a href="/about">About</a> page for details and the <a href="/todo/">TODO</a> page for research ideas.</p>
 </div>
 <div class="pure-u-1 pure-u-md-1-3 align-center">
   <img src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/logo.png" alt="Mechanical Tsar" style="height: 10em">
