@@ -48,4 +48,10 @@ p:first-of-type {
     text-align: right;
 }
 
+abbr[title] {
+    border-bottom: 1px dotted;
+    text-decoration: none;
+    cursor: help;
+}
+
 @import "syntax-highlighting";
