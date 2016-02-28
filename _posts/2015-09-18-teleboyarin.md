@@ -2,7 +2,7 @@
 layout: post
 title:  "Teleboyarin—Mechanical Tsar for Telegram"
 author: "Dmitry Ustalov"
-date:   2015-09-18 18:29:53
+date:   2015-09-18 23:29:53 +0500
 ---
 
 **Teleboyarin** is an open source instant messaging bot designed for crowd annotation via Telegram.
