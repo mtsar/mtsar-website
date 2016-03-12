@@ -20,7 +20,7 @@ Here are some research project ideas, engineering ideas for new participants, an
   * Our [POM](https://github.com/mtsar/mtsar/blob/develop/pom.xml) seems to be too redundant, so it might be reasonable to use the [basepom](https://github.com/basepom/basepom) `minimal` or `foundation` settings as the parent POM.
 
 * **No JitPack**
-  * [JitPack](https://jitpack.io/) is a great repository for hosting JVM libraries, however we need only a couple of modules not present in the central one: [Get Another Label](https://github.com/ipeirotis/Get-Another-Label) and [SQUARE](https://github.com/utir/square).
+  * [JitPack](https://jitpack.io/) is a great repository for hosting JVM libraries, however we need only a couple of modules not present in Maven Central: [Get Another Label](https://github.com/ipeirotis/Get-Another-Label) and [SQUARE](https://github.com/utir/square).
 
 <!--
 * **Topic**
