@@ -17,7 +17,7 @@ Here are [some](https://github.com/mtsar/mtsar.github.io/blob/master/todo.md) re
   * Rewrite the unit tests in [Groovy](http://www.groovy-lang.org/) for making them shorter and better readable.
 
 * **Switch to basepom**
-  * Our [POM](https://github.com/mtsar/mtsar/blob/develop/pom.xml) seems to be too redundant, so it seems to be reasonable to use [basepom](https://github.com/basepom/basepom) `minimal` or `foundation` settings as the parent POM.
+  * Our [POM](https://github.com/mtsar/mtsar/blob/develop/pom.xml) seems to be too redundant, so it might be reasonable to use the [basepom](https://github.com/basepom/basepom) `minimal` or `foundation` settings as the parent POM.
 
 * **No JitPack**
   * [JitPack](https://jitpack.io/) is a great repository for hosting JVM libraries, however we need only a couple of GitHub repositories not present in the central one: [Get Another Label](https://github.com/ipeirotis/Get-Another-Label) and [SQUARE](https://github.com/utir/square).
@@ -26,5 +26,7 @@ Here are [some](https://github.com/mtsar/mtsar.github.io/blob/master/todo.md) re
 * **Topic**
   * Description.
 -->
+
+Interested? Create a thread on [NLPub Q&A](https://qa.nlpub.ru/c/mtsar) and we will do our best to assist you. Comments and additions to this list are always [welcome](https://github.com/mtsar/mtsar.github.io/blob/master/todo.md).
 
 *This page is inspired by the page [HadoopResearchProjects](https://wiki.apache.org/hadoop/HadoopResearchProjects) on the Hadoop Wiki.*
