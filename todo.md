@@ -1,6 +1,7 @@
 ---
 layout: page
 title: TODO
+description: Research and engineering ideas for Mechanical Tsar.
 permalink: /todo/
 ---
 
