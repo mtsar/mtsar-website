@@ -16,7 +16,7 @@ Here are [some](https://github.com/mtsar/mtsar.github.io/blob/master/todo.md) re
   * Rewrite the unit tests in [Groovy](http://www.groovy-lang.org/) for making them shorter and better readable.
 
 * **Switch to basepom**
-  * Our POM seems to be too redundant, so it seems to be reasonable to use [basepom](https://github.com/basepom/basepom) `minimal` or `foundation` settings as the parent POM.
+  * Our [POM](https://github.com/mtsar/mtsar/blob/develop/pom.xml) seems to be too redundant, so it seems to be reasonable to use [basepom](https://github.com/basepom/basepom) `minimal` or `foundation` settings as the parent POM.
 
 <!--
 * **Topic**
