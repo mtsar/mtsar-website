@@ -5,7 +5,7 @@ description: Research and engineering ideas for Mechanical Tsar.
 permalink: /todo/
 ---
 
-Here are [some](https://github.com/mtsar/mtsar.github.io/blob/master/todo.md) research project ideas, engineering ideas for new participants, and areas where domain experts from other fields might add a lot of value by bringing their perspective into the Mechanical Tsar discussion.
+Here are some research project ideas, engineering ideas for new participants, and areas where domain experts from other fields might add a lot of value by bringing their perspective into the Mechanical Tsar discussion.
 
 * **Pricing Algorithms**
   * Microtasks are often involve micropayments. Currently, Mechanical Tsar lacks the ability to estimate optimal task degree and price.
