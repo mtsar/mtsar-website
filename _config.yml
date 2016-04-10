@@ -8,6 +8,7 @@ markdown: kramdown
 exclude:
   - Gemfile*
   - README.md
+  - likely/source
 safe: true
 timezone: Asia/Yekaterinburg
 encoding: UTF-8
