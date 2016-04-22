@@ -27,6 +27,6 @@ Here are some research project ideas, engineering ideas for new participants, an
   * Description.
 -->
 
-Interested? Create a thread on [NLPub Q&A](https://qa.nlpub.ru/c/mtsar) and we will do our best to assist you. Comments and additions to this list are always [welcome](https://github.com/mtsar/mtsar.github.io/blob/master/todo.md).
+Interested? Create a thread on [NLPub Q&A](https://qa.nlpub.ru/c/mtsar) and we will do our best to assist you. Comments and additions to this list are always [welcome](https://github.com/mtsar/mtsar.github.io/blob/master/todo.md). Some of the above mentioned features might be planned in the [roadmap](https://github.com/mtsar/mtsar/wiki/Roadmap).
 
 *This page is inspired by the page [HadoopResearchProjects](https://wiki.apache.org/hadoop/HadoopResearchProjects) on the Hadoop Wiki.*
