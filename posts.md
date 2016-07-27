@@ -13,4 +13,4 @@ permalink: /posts/
 {% endfor %}
 </ul>
 
-Also, we have an [RSS feed](/posts.xml).
+Also, we have an [RSS feed]({{ "/posts.xml" | prepend: site.baseurl }}).

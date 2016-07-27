@@ -1,9 +1,14 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<html>
+<html lang="en">
 {% include head.html %}
 <body>
 <div id="content">
-{% include header.html %}
+<header>
+  <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+</header>
 {{ content }}
 </div>
 {% include footer.html %}

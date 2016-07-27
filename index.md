@@ -31,7 +31,7 @@ Please [note us](https://github.com/mtsar/mtsar.github.io/issues) if you want to
 {% endfor %}
 </ul>
 
-Other news are available on the [Posts](/posts) page. Also, we have an [RSS feed](/posts.xml).
+Other news are available on the [Posts](/posts) page. Also, we have an [RSS feed]({{ "/posts.xml" | prepend: site.baseurl }}).
 
 ## Get Started
 

@@ -1,14 +1,15 @@
 ---
 layout: default
 ---
+<article>
 <h2>{{ page.title }}</h2>
 
 <p class="metadata">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} &bullet; {{ page.author }}{% endif %}{% if page.meta %} &bullet; {{ page.meta }}{% endif %}</p>
 
 {{ content }}
 
-<script src="/likely/release/likely.js"></script>
-<link rel="stylesheet" href="/likely/release/likely.css">
+<link rel="stylesheet" property="stylesheet" type="text/css" media="all" href="//cdnjs.cloudflare.com/ajax/libs/ilyabirman-likely/2.1.1/likely.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/ilyabirman-likely/2.1.1/likely.js"></script>
 
 <div class="likely">
   <div class="facebook">Share</div>
@@ -16,3 +17,4 @@ layout: default
   <div class="gplus">+1</div>
   <div class="vkontakte">Share</div>
 </div>
+</article>

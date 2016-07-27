@@ -4,6 +4,7 @@
 @charset "utf-8";
 
 #content {
+    font-size: 115%;
     margin: 0 auto;
     max-width: 960px;
     line-height: 1.5;
@@ -34,8 +35,8 @@ p:first-of-type {
     }
 }
 
-#footer {
-    font-size: 85%;
+footer {
+    font-size: 100%;
     margin-top: 3em;
     margin-bottom: 1em;
 }
