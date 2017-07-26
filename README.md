@@ -11,6 +11,6 @@ Mechanical Tsar is an engine for mechanized labor workflows.
 
 ## Copyright
 
-Copyright (c) 2014-2015 [Dmitry Ustalov]. See LICENSE for details.
+Copyright (c) 2014-2017 [Dmitry Ustalov]. See LICENSE for details.
 
-[Dmitry Ustalov]: https://ustalov.name/
+[Dmitry Ustalov]: https://ustalov.com/
