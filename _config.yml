@@ -11,7 +11,7 @@ exclude:
   - Gemfile*
   - README.md
   - likely/source
-gems:
+plugins:
 - jekyll-sitemap
 - jekyll-feed
 whitelist:
