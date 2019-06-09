@@ -3,22 +3,22 @@ layout: default
 ---
 
 <div class="pure-g">
-<div class="pure-u-1 pure-u-md-2-3">
-  <p><strong>Mechanical Tsar</strong> is an engine for running a highly customizable hosted crowdsourcing platform controlling the entire annotation process including such elements as task allocation, worker ranking and result aggregation. Read the <a href="/about">About</a> page for details and the <a href="/todo/">TODO</a> page for research ideas.</p>
-</div>
-<div class="pure-u-1 pure-u-md-1-3 align-center">
-  <img src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/logo.png" alt="Mechanical Tsar" style="height: 10em">
-</div>
-</div>
+<div class="pure-u-1 pure-u-md-2-3" markdown="1">
+**Mechanical Tsar** is an engine for running a highly customizable hosted crowdsourcing platform controlling the entire annotation process including such elements as task allocation, worker ranking and result aggregation. Read the [About](/about/) page for details and the [TODO](/todo/) page for research ideas.
 
 ## Happy Users
 
 The engine is successfully used by several research projects:
 
 * [Yet Another RussNet](https://russianword.net/en/), a large open WordNet-like thesaurus for Russian through crowdsourcing, founded in 2013
-* [RUSSE](http://russe.nlpub.ru/), the first international workshop on Russian semantic similarity evaluation, founded in 2014
+* [RUSSE](https://russe.nlpub.org/), the first international workshop on Russian semantic similarity evaluation, founded in 2014
 
 Please [note us](https://github.com/mtsar/mtsar.github.io/issues) if you want to be mentioned on this page.
+</div>
+<div class="pure-u-1 pure-u-md-1-3 align-center">
+  <img src="https://media.githubusercontent.com/media/mtsar/mtsar.github.io/master/media/logo.png" alt="Mechanical Tsar" style="height: 10em">
+</div>
+</div>
 
 ## Latest News
 
