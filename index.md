@@ -13,10 +13,10 @@ layout: default
 
 ## Happy Users
 
-The engine is successfully used by several research projects.
+The engine is successfully used by several research projects:
 
-* [Yet Another RussNet](https://russianword.net/en/), a large open WordNet-like thesaurus for Russian through crowdsourcing, founded in 2013.
-* [RUSSE](http://russe.nlpub.ru/), the first international workshop on Russian semantic similarity evaluation, founded in 2014.
+* [Yet Another RussNet](https://russianword.net/en/), a large open WordNet-like thesaurus for Russian through crowdsourcing, founded in 2013
+* [RUSSE](http://russe.nlpub.ru/), the first international workshop on Russian semantic similarity evaluation, founded in 2014
 
 Please [note us](https://github.com/mtsar/mtsar.github.io/issues) if you want to be mentioned on this page.
 
@@ -37,7 +37,7 @@ Other news are available on the [Posts](/posts) page. Also, we have an [RSS feed
 
 The simplest way to start using Mechanical Tsar is pulling our Docker image. Just consult our [Running on Docker](https://github.com/mtsar/mtsar/wiki/Running-on-Docker) guide to get started. It is also possible to deploy the engine on [Heroku](https://github.com/mtsar/mtsar/wiki/Running-on-Heroku), on [systemd](https://github.com/mtsar/mtsar/wiki/Running-on-systemd) and on a regular [Linux](https://github.com/mtsar/mtsar/wiki/Running) box.
 
-More documentation is available in English on [GitHub Wiki](https://github.com/mtsar/mtsar/wiki) and on [NLPub](https://nlpub.ru/Mechanical_Tsar) in Russian. In case if you need support, ask a question on [NLPub Q&A](https://qa.nlpub.ru/c/mtsar) either in Russian or English.
+More documentation is available in English on [GitHub Wiki](https://github.com/mtsar/mtsar/wiki) and on [NLPub](https://nlpub.ru/Mechanical_Tsar) in Russian.
 
 ## Citation
 
@@ -63,11 +63,5 @@ If you publish work that uses Mechanical Tsar, please cite it as follows.
 }
 {% endraw %}
 {% endhighlight %}
-
-## Copyright
-
-Copyright &copy; 2014&ndash;{{ site.time | date: '%Y' }} [Dmitry Ustalov].
-
-[Dmitry Ustalov]: https://ustalov.com/
 
 <a href="https://github.com/mtsar"><img style="position: absolute; top: 0; right: 0; border: 0; width: 149px; height: 149px;" src="//aral.github.io/fork-me-on-github-retina-ribbons/right-graphite@2x.png" alt="Fork me on GitHub"></a>
