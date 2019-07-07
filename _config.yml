@@ -1,16 +1,16 @@
 title: Mechanical Tsar
 description: Mechanical Tsar is a crowdsourcing engine for mechanized labor.
 baseurl: ''
-url: 'http://mtsar.nlpub.org'
+url: 'https://mtsar.nlpub.org'
 twitter_username: nlpub
 github_username: mtsar
 markdown: kramdown
 sass:
   style: compressed
 exclude:
-  - Gemfile*
-  - README.md
-  - likely/source
+- Gemfile*
+- README.md
+- likely/source
 plugins:
 - jekyll-sitemap
 - jekyll-feed
