@@ -48,14 +48,14 @@ If you publish work that uses Mechanical Tsar, please cite it as follows.
 {% highlight latex %}
 {% raw %}
 @article{Ustalov:15:ispras,
-  author    = {Ustalov, D.},
+  author    = {Ustalov, Dmitry},
   title     = {{A Crowdsourcing Engine for Mechanized Labor}},
   journal   = {Proceedings of the Institute for System Programming},
   pages     = {351--364},
   volume    = {27},
   number    = {3},
   year      = {2015},
-  address   = {Moscow},
+  address   = {Moscow, Russia},
   publisher = {ISP RAS},
   issn      = {2220-6426},
   doi       = {10.15514/ISPRAS-2015-27(3)-25},
